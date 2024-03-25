@@ -2,6 +2,8 @@
 
 CryptoX is a React web application that provides users with real-time data on various crypto coins' prices. Leveraging the Coin Gecko API, this platform offers up-to-date information on cryptocurrency prices. The frontend is developed using React, while Chakra UI is implemented to create a clean and user-friendly interface.
 
+- Live : https://crypto-x-zeta.vercel.app/
+
 ## Introduction
 
 Cryptocurrencies have become an essential part of the modern financial landscape, and their prices can fluctuate rapidly. CryptoX aims to provide users with real-time information on the prices of various cryptocurrencies, empowering them to make informed decisions.
